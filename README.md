@@ -33,4 +33,4 @@ Klondike & Solitaire Card Game
 * Book Drive Lead @ African Library Project: Orchestrated logistics for 8,000+ books and established 6 international libraries.
 
 ## 📫 Connect with Me
-LinkedIn: linkedin.com/in/aanyabatra
+LinkedIn: https://www.linkedin.com/in/aanyabatra
