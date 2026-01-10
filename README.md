@@ -14,7 +14,7 @@ I am a CS + Business Honors student at Northeastern University focused on buildi
 
 ## 🚀 Projects
 React Right (CEO & Startup Lead)
-* mHealth Startup MVP for Allergen Identification
+* mHealth Startup MVP for Allergen Identification and Product Recommendations
 * The Build: Developed a Python MVP and high-fidelity wireframes for a mobile application addressing gaps in the mHealth allergy market.
 * The Impact: As CEO/Lead, I synthesized market research and revenue forecasting into a functional prototype, successfully pitching the financial and technical feasibility to a panel of faculty and peers.
 
