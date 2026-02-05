@@ -32,5 +32,5 @@ Klondike & Solitaire Card Game
 * Business Consultant @ Sertie: Defined AI product roadmaps and pricing models for global market expansion; placed 2nd in multi-stage competition.
 * Book Drive Lead @ African Library Project: Orchestrated logistics for 8,000+ books and established 6 international libraries.
 
-## 📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/aanyabatra
+## 📫 Connect with Me!
+https://www.linkedin.com/in/aanyabatra
