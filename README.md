@@ -3,14 +3,14 @@ Hi! I'm Aanya Batra 👋
 
 I am a CS + Business Honors student at Northeastern University focused on building products where technical scalability meets strategic business value. As a developer and product thinker with a background in software engineering and consulting, I specialize in bridging the gap between complex architectures and user-centric solutions. I specialize in bridging the gap between complex technical architectures and user-centric solutions.
 
-## 🔍 At a Glance
+## 🔍 Current Focus
 * Current Role: SWE & Product Intern @ Tough Tongue AI
-* Interests: Full-stack development, AI/LLM integration, Data Modeling, and Product Strategy.
+* Interests: Full-stack development, Product Management
 
 ## 🛠️ Technical & Professional Toolkit
-* Languages: Java, Python, JavaScript, SQL (MySQL), R, HTML/CSS
-* Frameworks & Tools: React.js, Git, Postman API, Vertex AI, JUnit Testing, VSCode, IntelliJ, Cloud Technologies
-* Product & Strategy: Market/Competitive Research, Funnel Analysis, Product Strategy, PRDs, Success Metrics (KPIs), UI/UX Design
+* Languages: Java, Python, JavaScript, SQL (MySQL), R, HTML/CSS, C
+* Frameworks & Tools: React.js, Git, Postman API, Vertex AI, JUnit Testing, VSCode, IntelliJ, Cloud Technologies, AWS
+* Product & Strategy: Market/Competitive Research, Funnel Analysis, Product Strategy/Design, PRDs, Success Metrics (KPIs), Usability Testing, UI/UX Design
 
 ## 🚀 Projects
 React Right (CEO & Startup Lead)
