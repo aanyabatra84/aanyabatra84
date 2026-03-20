@@ -7,7 +7,7 @@ I am a CS + Business Honors student at Northeastern University focused on buildi
 * Current Role: SWE & Product Intern @ Tough Tongue AI
 * Interests: Full-stack development, Product Management
 
-## 🛠️ Technical & Professional Toolkit
+## 🛠️ Technical & Product Toolkit
 * Languages: Java, Python, JavaScript, SQL (MySQL), R, HTML/CSS, C
 * Frameworks & Tools: React.js, Git, Postman API, Vertex AI, JUnit Testing, VSCode, IntelliJ, Cloud Technologies, AWS
 * Product & Strategy: Market/Competitive Research, Funnel Analysis, Product Strategy/Design, PRDs, Success Metrics (KPIs), Usability Testing, UI/UX Design
