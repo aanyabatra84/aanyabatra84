@@ -1,7 +1,7 @@
 ## About Me
 Hi! I'm Aanya Batra 👋
 
-I am a CS + Business Honors student at Northeastern University focused on building products where technical scalability meets strategic business value. As a developer and product thinker with a background in software engineering and consulting, I specialize in bridging the gap between complex architectures and user-centric solutions. I specialize in bridging the gap between complex technical architectures and user-centric solutions.
+I am a CS + Business Honors student at Northeastern University focused on building products where technical scalability meets strategic business value. As a developer and product thinker with a background in software engineering and consulting, I specialize in bridging the gap between complex architectures and user-centric solutions.
 
 ## 🔍 Current Focus
 * Current Role: SWE & Product Intern @ Tough Tongue AI
